@@ -1,2 +1,2 @@
-# Question-generation-
-A transformer based question generation model 
+# MCQ Question-generation-
+A transformer based multiple choice question generation model 
